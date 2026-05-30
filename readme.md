@@ -196,7 +196,7 @@ zig test float_test.zig
 Saída esperada:
 
 ```text
-All tests passed.
+All 7 tests passed.
 ```
 
 ---
